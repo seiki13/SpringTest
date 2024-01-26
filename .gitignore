@@ -1,3 +1,4 @@
 MANIFEST.MF
 pom.properties
 *.class
+log4j.xml
