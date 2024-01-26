@@ -1,3 +1,7 @@
-*
-!/src/
-!/pom.xml
+.settings/
+target/
+.classpath
+.project
+.springBeans
+MANIFEST.MF
+pom.properties
