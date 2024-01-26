@@ -4,3 +4,4 @@ pom.properties
 log4j.xml
 target
 target/*
+pom.xml
